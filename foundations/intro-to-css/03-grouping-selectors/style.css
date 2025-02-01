@@ -1,0 +1,11 @@
+.ambos {
+    font-size: 28px;
+    font-family: helvetica, sans-serif, 'times new roman';
+}
+#primerelemento {
+    background-color: black;
+    color: white;
+}
+#segundo-elemento {
+    background-color: yellow;
+}
